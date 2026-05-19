@@ -1,6 +1,6 @@
 import { useState } from "react";
-import AddTaskForm from "./addTaskForm.jsx";
-import TaskList from "./taskList.jsx";
+import AddTaskForm from "./AddTaskForm.jsx";
+import TaskList from "./TaskList.jsx";
 
 function TaskManager() {
     // state
